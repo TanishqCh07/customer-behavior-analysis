@@ -10,7 +10,7 @@ This project analyzes customer behavior using Python and data science techniques
 - **Insights**: Actionable recommendations based on analysis.
 
 ---
-## Dataset Details
+### Dataset Details
 
 ### Attributes
 1. **Demographics**: 
