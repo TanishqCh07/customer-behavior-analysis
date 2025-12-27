@@ -1,7 +1,7 @@
 # customer-behavior-analysis
 
 # Overview
-This project analyzes customer behavior using Python and data science techniques. It provides insights into customer personas, purchasing patterns, and segmentation, enabling businesses to tailor their strategies for better engagement and growth.
+This project analyzes customer behavior using Python and data science techniques. It provides insights into customer personas, purchasing patterns, and segmentation, enabling businesses to tailor their strategies for better engagement & growth.
 
 ### Key Features
 - **Data Preprocessing**: Cleaning and preparing data for analysis.
